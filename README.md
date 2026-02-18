@@ -10,5 +10,9 @@
 - Add an element.
 
 
-
+# What I did here.
 <img width="1377" height="232" alt="Image" src="https://github.com/user-attachments/assets/09f487d7-0a81-4503-861b-4252a8e2b44f" />
+
+- Created 2 lists.
+- Added second list to first.
+- Removed third element from the list without using the index.
