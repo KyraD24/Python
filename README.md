@@ -36,8 +36,11 @@
 <img width="1352" height="188" alt="Image" src="https://github.com/user-attachments/assets/0340bc07-1ea6-45f5-8dc5-3ebb5c34c1a2" />
 
 - Iterates through number 0-100 and prints only even.
+
+
+## What I did to get a random number.
+<img width="1369" height="609" alt="Image" src="https://github.com/user-attachments/assets/cb39f4f5-af9d-4b75-8764-6f6b7ee1521c" />
   
 # Pandas
-
 
 <img width="1347" height="210" alt="Image" src="https://github.com/user-attachments/assets/a76cb1f6-2321-407d-b544-3063b2fc8256" />
