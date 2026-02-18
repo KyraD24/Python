@@ -16,3 +16,15 @@
 - Created 2 lists.
 - Added second list to first.
 - Removed third element from the list without using the index.
+
+
+# What I did here
+<img width="1365" height="418" alt="Image" src="https://github.com/user-attachments/assets/112efd8b-fb22-4728-9771-fd25e8f9c5c7" />
+
+- Created a Dictionary with 4 values.
+- Printed 1 value.
+- Changed a value.
+- Created an empty Dictionary.
+- Added a key value to it.
+
+  
