@@ -28,9 +28,12 @@
 - Added a key value to it.
 
 
-# What I did here.
+# Print numbers 1-50.
 <img width="443" height="115" alt="Image" src="https://github.com/user-attachments/assets/1d8d2f02-2f44-42d5-8bdf-705215ed912c" />
 
-- Printed numbers 1-50.
 
+# What I did here.
+<img width="1352" height="188" alt="Image" src="https://github.com/user-attachments/assets/0340bc07-1ea6-45f5-8dc5-3ebb5c34c1a2" />
+
+- Iterates through number 0-100 and prints only even.
   
