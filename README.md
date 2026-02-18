@@ -39,3 +39,5 @@
   
 # Pandas
 
+
+<img width="1347" height="210" alt="Image" src="https://github.com/user-attachments/assets/a76cb1f6-2321-407d-b544-3063b2fc8256" />
